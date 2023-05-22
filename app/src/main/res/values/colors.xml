@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="black_effective">#2a2a2a</color>
+    <color name="black">#000000</color>
+    <color name="blackAlpha70">#BA000000</color>
+    <color name="blackAlpha50">#80000000</color>
+    <color name="darkBlue">#1e3b6b</color>
+    <color name="gold">#E2C386</color>
+    <color name="royal_blue">#0047BA</color>
+    <color name="darkBlueTransparent">#201e3b6b</color>
+    <color name="lightBlue">#0077C8</color>
+    <color name="disabledIcon">#444444</color>
+    <color name="enabledIcon">#0077C8</color>
+    <color name="lightBlueAlpha20">#33079bd7</color>
+    <color name="lightBlueAlpha30">#45079bd7</color>
+    <color name="skyBlue">#0075C9</color>
+    <color name="disabledCardGrey">#C4C4C4</color>
+    <color name="cardGold">#A98000</color>
+    <color name="green">#109647</color>
+    <color name="appGreen">#15C834</color>
+    <color name="red">#e32726</color>
+    <color name="orange">#faa22c</color>
+    <color name="yellow">#fed109</color>
+    <color name="darkGrey">#8c8c8c</color>
+    <color name="disabledGrey">@color/grey</color>
+    <color name="darkGreyPopup">#808080</color>
+    <color name="darkerGrey">#979797</color>
+    <color name="blackBG">#E6000000</color>
+    <color name="colorPopupDialogButtonPressed">#bababa</color>
+    <color name="colorPopupDialogButtonNormal">#ffffff</color>
+    <color name="colorPopupDialogStyledButtonStroke">#61b4eb</color>
+    <color name="colorPopupDialogMessageTextColor">#9f9f9f</color>
+    <color name="grey">#b2b2b2</color>
+    <color name="midGrey">#d5d3d0</color>
+    <color name="lightGrey">#f9f9f9</color>
+    <color name="white">#ffffff</color>
+    <color name="white_alpha_20">#33ffffff</color>
+    <color name="black_alpha_10">#20000000</color>
+    <color name="offWhite">#F6F6F6</color>
+    <color name="porcelain_white">#FBFBFB</color>
+    <color name="light_transparent">#16000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="divider_grey">#E4E4E4</color>
+    <color name="prussian_blue">#0d3b6b</color>
+    <color name="light_blue">#069BD7</color>
+    <color name="yellow_light">#FFFFBF</color>
+    <color name="yellow_dark">#ADA071</color>
+
+    <color name="boarder_gray">#C1C1C1</color>
+    <color name="background_gray">#EEEEEE</color>
+    <color name="dark_gray">#7E7E7E</color>
+</resources>

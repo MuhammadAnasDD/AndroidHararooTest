@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+        <com.example.androidproject.ui.custom.CustomToolbar
+            android:id="@+id/mainCTB"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            app:ct_background_color="@android:color/transparent"
+            app:ct_text_color="@color/black"
+            app:ct_title="@string/title_article"
+            app:ct_icon_start="@drawable/ic_baseline_arrow_back_24"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/articleRecycler"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@+id/mainCTB"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        tools:itemCount="3"
+        tools:listitem="@layout/article_item_row"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
